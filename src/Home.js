@@ -17,7 +17,7 @@ function Home() {
         <div className="home">
             <BlogList blogs={blogs} title="All Blogs!" handleDelete={handleDelete}/>   
             <h1>hello world</h1>  
-            <p>dfsdfs</p>     
+            <p>asdasdghdsggsada</p>     
         </div>
     );
 }
